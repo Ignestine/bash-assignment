@@ -1,8 +1,8 @@
 # 🚀 DevOps Bash Toolkit Assessment
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/your-username/devops-bash-toolkit/grade.yml)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/devops-bash-toolkit)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/devops-bash-toolkit)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ignestine/devops-bash-toolkit/grade.yml)
+![GitHub repo size](https://img.shields.io/github/repo-size/ignestine/devops-bash-toolkit)
+![GitHub last commit](https://img.shields.io/github/last-commit/ignestine/devops-bash-toolkit)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
